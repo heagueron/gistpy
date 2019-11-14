@@ -47,6 +47,21 @@ high_ord_func(2, lambda x: x + 3) #7
 # No typing.
 # Python lambda expressions support all the different ways of passing arguments.
 
+numbers = [1, 2, 3]
+
+list(map(lambda x: x, numbers))
+# [1, 2, 3]
+list(map(lambda x: x % 2 == 0, numbers))
+# [False, True, False]
+# The function above will output True or False depending on it’s success with division by 2.
+
+map(lambda x: x, numbers)
+# <map object at 0x7fe395945910>
+
+from functools import reduce
+numbers = [1, 2, 3]
+reduce(lambda x, y: x + y, numbers) # 6
+
 
 
 
