@@ -1,0 +1,3 @@
+pen 12
+paper 12
+eraser 2

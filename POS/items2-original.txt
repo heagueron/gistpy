@@ -1,0 +1,6 @@
+pen 24 3.25
+paper 6 0.75
+pencil 36 1.5
+ruler 5 12.5
+envelope 10 0.25
+eraser 10 1.5

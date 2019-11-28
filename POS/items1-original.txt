@@ -1,0 +1,4 @@
+banana 1 1.25
+apple 6 1.75
+orange 26 0.5
+pear 55 2.5

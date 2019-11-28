@@ -1,0 +1,3 @@
+{'pen':24, 'paper':6, 'pencil':36, 'ruler':5, 'envelope':10, 'eraser':10},0
+{'pen':24, 'paper':6, 'pencil':3, 'ruler':5, 'envelope':12, 'eraser':10},10
+{'pen':24, 'paper':65, 'pencil':3, 'ruler':55, 'envelope':12, 'eraser':100},50
